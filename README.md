@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Bhargavi 👋
 
-<!--
-**bhargavichinnaparapu/bhargavichinnaparapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc Data Science Student  
+📊 Aspiring Data Analyst  
+💻 Python | SQL | Power BI | Excel | Tableau 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+
+- Data Science student with hands-on project experience
+- Interested in data analysis, visualization, and insights
+- Actively building real-world projects using Python and Power BI
+- Looking for entry-level Data Analyst opportunities
+
+---
+
+## 🛠️ Skills
+
+- **Programming:** Python, SQL  
+- **Data Analysis:** Pandas, Excel  
+- **Visualization:** Power BI, Tableau, Matplotlib  
+- **Tools:** Git, GitHub, MySQL  
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Job Listings Scraper & Analysis
+- Built a Python-based web scraper using BeautifulSoup and Requests
+- Analyzed job market trends using Pandas
+- Created visualizations using Matplotlib  
+🔗 [View Project](https://github.com/bhargavichinnaparapu/job-listing-project)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: bhargavichinnaparapu@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/bhargavichinnaparapu  
+
+---
+
+⭐ *Check out my repositories below — more projects coming soon!*
+
+
+
