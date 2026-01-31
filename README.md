@@ -23,7 +23,9 @@ I enjoy working with large datasets, building KPI-driven dashboards, and transfo
 ## 🛠️ Skills
 
 • Programming Languages: Python (Pandas, Matplotlib, NumPy), SQL (MySQL)
+
 • Data Analysis & Visualization: EDA (Exploratory Data Analysis), Power BI (DAX), Tableau, Advanced Excel
+
 • Version Control & Tools: Git, GitHub, VS Code
 
 ---
@@ -59,7 +61,8 @@ I enjoy working with large datasets, building KPI-driven dashboards, and transfo
 
 ## 📫 Connect With Me
 
-- 📧 Email: bhargavichinnaparapu@gmail.com  
+- 📧 Email: bhargavichinnaparapu@gmail.com
+  
 - 💼 LinkedIn: https://www.linkedin.com/in/bhargavichinnaparapu  
 
 ---
