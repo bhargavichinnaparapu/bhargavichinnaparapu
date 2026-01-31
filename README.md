@@ -1,7 +1,9 @@
 # 👋 Hi, I’m Bhargavi Chinnaparapu
 
 🎓 B.Sc. Data Science Student
+
 📊 Data Analysis & Business Intelligence
+
 💻 SQL | Tableau | Power BI | Python | Excel
 
 ---
