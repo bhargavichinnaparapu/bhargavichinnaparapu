@@ -42,7 +42,7 @@ I enjoy working with large datasets, building KPI-driven dashboards, and transfo
 
 - Optimized dashboard layout and KPI formatting for recruiter-friendly insights
 
-🔗 Repository: https://github.com/bhargavichinnaparapu/job-market-analysis-tableau
+🔗 [View Project](https://github.com/bhargavichinnaparapu/job-market-analysis-tableau)
 
 
 ### 🔹 Job Listings Scraper & Analysis
