@@ -1,14 +1,14 @@
-# 👋 Hi, I’m Bhargavi Chinnaparapu
+#  Hi, I’m Bhargavi Chinnaparapu
 
-🎓 B.Sc. Data Science Student
+ B.Sc. Data Science Student
 
-📊 Data Analysis & Business Intelligence
+ Data Analysis & Business Intelligence
 
-💻 SQL | Tableau | Power BI | Python | Excel
+ SQL | Tableau | Power BI | Python | Excel
 
 ---
 
-## 🔍 About Me
+##  About Me
 
 I’m a Data Science student with hands-on experience in data analysis and business intelligence through an internship and multiple end-to-end projects.
 
@@ -20,7 +20,7 @@ I enjoy working with large datasets, building KPI-driven dashboards, and transfo
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 • Programming Languages: Python (Pandas, Matplotlib, NumPy), SQL (MySQL)
 
@@ -30,9 +30,9 @@ I enjoy working with large datasets, building KPI-driven dashboards, and transfo
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-🔹 Job Market Analysis Dashboard (Internship Project)
+ Job Market Analysis Dashboard (Internship Project)
 
 - Analyzed 1.35M+ job postings across 1,000+ cities and 90K+ companies using SQL
 
@@ -42,10 +42,10 @@ I enjoy working with large datasets, building KPI-driven dashboards, and transfo
 
 - Optimized dashboard layout and KPI formatting for recruiter-friendly insights
 
-🔗 [View Project](https://github.com/bhargavichinnaparapu/job-market-analysis-tableau)
+ [View Project](https://github.com/bhargavichinnaparapu/job-market-analysis-tableau)
 
 
-### 🔹 Job Listings Scraper & Analysis
+###  Job Listings Scraper & Analysis
 
 - Built a Python-based web scraper using BeautifulSoup and Requests
 
@@ -55,19 +55,19 @@ I enjoy working with large datasets, building KPI-driven dashboards, and transfo
 
 - Visualized insights using Matplotlib
   
-🔗 [View Project](https://github.com/bhargavichinnaparapu/job-listing-project)
+ [View Project](https://github.com/bhargavichinnaparapu/job-listing-project)
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-- 📧 Email: bhargavichinnaparapu@gmail.com
+-  Email: bhargavichinnaparapu@gmail.com
   
-- 💼 LinkedIn: https://www.linkedin.com/in/bhargavichinnaparapu  
+-  LinkedIn: https://www.linkedin.com/in/bhargavichinnaparapu  
 
 ---
 
-⭐ *Check out my repositories below — more projects coming soon!*
+ *Check out my repositories below — more projects coming soon!*
 
 
 
