@@ -9,13 +9,14 @@ Data Analysis & Business Intelligence
 
 ## About Me
 
-I’m a Data Science student with hands-on experience in data analysis and business intelligence through an internship and multiple end-to-end projects.
+I am a B.Sc. Data Science student with hands-on experience in Data Analysis and Business Intelligence, gained through a structured internship and real-world projects.
 
-I completed a data analytics internship at **ElevanceSkills**, where I worked on a **Job Market Analysis Dashboard**, analyzing **1.35M+ job postings across 1,000+ cities and 90K+ companies** using SQL and Tableau to uncover global hiring trends.
+I have worked with SQL, Python, Power BI, Tableau, and Excel to analyze large datasets and convert data into meaningful, actionable insights. During my Data Analyst internship at ElevanceSkills, I analyzed 1.35M+ job postings across 1,000+ cities and 90K+ companies, built KPI-driven dashboards, and identified key hiring trends.
 
-Alongside this, I have built Python- and BI-based data analysis projects, including dashboards and web-scraping workflows, to transform raw data into clear, actionable insights.
+My project experience includes building interactive Power BI dashboards using DAX, performing exploratory data analysis (EDA) using Python, and developing data pipelines for job market analysis using web scraping and visualization techniques.
 
-I enjoy working with large datasets, building KPI-driven dashboards, and delivering insights that support data-driven decision-making.
+I enjoy solving business problems through data, creating insightful dashboards, and continuously learning new tools and techniques. I am currently seeking entry-level Data Analyst or Business Intelligence Analyst opportunities where I can contribute to data-driven decision-making.
+
 
 ---
 
