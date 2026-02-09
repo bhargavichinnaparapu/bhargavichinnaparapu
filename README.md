@@ -106,7 +106,7 @@ Location: Bhimavaram, Andhra Pradesh
 
 - Data Analytics Internship Training (Job Analytics Portal) – ElevanceSkills
 - SQL (Basic and Intermediate) – HackerRank
-- Data Analyst: Professional Certificate in Data Analysis – Udemy (In Progress)
+- Data Analyst: Professional Certificate in Data Analysis – Udemy 
 - Online Soft Skills Training – NPTEL (IIT Madras)
 
 ---
