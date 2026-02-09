@@ -80,6 +80,7 @@ I am seeking an entry-level Data Analyst or Business Analyst role where I can ap
 - Visualized insights using Matplotlib
 
 **View Project:** [https://github.com/bhargavichinnaparapu/job-listing-project](https://github.com/bhargavichinnaparapu/job-listing-project)
+
 ---
 
 ## Education
@@ -108,9 +109,13 @@ Bhimavaram, Andhra Pradesh
 ## Contact
 
 **Phone:** +91 9988464627
+
 **Email:** [bhargavichinnaparapu@gmail.com](mailto:bhargavichinnaparapu@gmail.com)
+
 **LinkedIn:** [https://www.linkedin.com/in/bhargavichinnaparapu](https://www.linkedin.com/in/bhargavichinnaparapu)
+
 **GitHub:** [https://github.com/bhargavichinnaparapu/bhargavichinnaparapu](https://github.com/bhargavichinnaparapu/bhargavichinnaparapu)
+
 
 
  *Check out my repositories below — more projects coming soon!*
