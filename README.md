@@ -1,37 +1,35 @@
 # Bhargavi Chinnaparapu
 
-B.Sc. Data Science Student | Aspiring Data Analyst | Business Intelligence(BI)
+B.Sc. Data Science Student | Data Analyst | Business Intelligence (BI)
 
 ---
 
-## About Me
-I am a B.Sc. Data Science student with practical experience in data analysis, business intelligence, and reporting through internships and academic projects. I have worked with large, real-world datasets using SQL, Python, Power BI, Tableau, and Excel to analyze trends, build dashboards, and support data-driven decision-making.
+## Professional Summary
+B.Sc. Data Science student with hands-on experience in data analysis, business intelligence, and reporting through internships and academic projects. Experienced in analyzing large datasets using SQL and Python, building interactive dashboards with Power BI and Tableau, and performing exploratory data analysis (EDA) to support data-driven decision-making.
 
-My experience includes SQL-based data analysis, KPI development, exploratory data analysis (EDA), and visualization for business use cases such as job market analysis and sales performance evaluation. I am comfortable working with structured data, designing star-schema data models, and creating interactive dashboards using DAX and Tableau.
-
-I am seeking an entry-level Data Analyst or Business Analyst role where I can apply analytical skills, problem-solving ability, and attention to detail to deliver meaningful insights and business value.
+Strong foundation in KPI development, star-schema data modeling, and business-focused data visualization. Seeking entry-level Data Analyst or Business Analyst roles where analytical skills and attention to detail can be applied to deliver measurable business insights.
 
 ---
 
 ## Technical Skills
 
-### Languages
+### Programming Languages
 - Python (Pandas, NumPy, Matplotlib)
 - SQL
 
 ### Databases
 - MySQL
 
-### Visualization & Analytics
+### Data Visualization and BI Tools
 - Power BI (DAX)
 - Tableau
 - Excel (Intermediate)
 - Exploratory Data Analysis (EDA)
 
-### Concepts
-- DBMS (Basics)
-- Star Schema Data Modeling
+### Data Concepts
 - KPI Design and Analysis
+- Star Schema Data Modeling
+- DBMS (Fundamentals)
 
 ### Tools
 - Git
@@ -39,25 +37,26 @@ I am seeking an entry-level Data Analyst or Business Analyst role where I can ap
 - VS Code
 
 ### Soft Skills
-- Problem Solving  
-- Analytical Thinking  
-- Attention to Detail  
-- Self-Learning  
+- Analytical Thinking
+- Problem Solving
+- Attention to Detail
+- Self-Learning
 
 ---
 
-## Experience
+## Professional Experience
 
 ### Data Analyst Intern – Job Market Analysis  
 **ElevanceSkills | Dec 2025 – Jan 2026**
 
 - Completed a structured data analytics internship focused on real-world business problem solving
-- Analyzed 1.35M+ job postings across 1,000+ cities and 90K+ companies using SQL to identify hiring trends
-- Built interactive Tableau dashboards with KPIs, filters, and maps
-- Standardized KPI formatting (K/M units) to improve insight clarity
+- Analyzed 1.35M+ job postings across 1,000+ cities and 90K+ companies using SQL to identify hiring trends and demand patterns
+- Built interactive Tableau dashboards with KPIs, filters, and geographic maps
+- Standardized KPI formatting (K/M units) to improve dashboard readability and insight discovery
 - Identified onsite roles accounting for approximately 70% of total job demand
 
-**View Project:** [https://github.com/bhargavichinnaparapu/job-market-analysis-tableau](https://github.com/bhargavichinnaparapu/job-market-analysis-tableau)
+Project Repository:  
+https://github.com/bhargavichinnaparapu/job-market-analysis-tableau
 
 ---
 
@@ -65,21 +64,27 @@ I am seeking an entry-level Data Analyst or Business Analyst role where I can ap
 
 ### Sales Performance Analysis  
 **Power BI, DAX, Excel | Feb 2026**
-- Built an executive Power BI dashboard to analyze sales, profit, margin, and return rates
-- Designed a star-schema data model with optimized DAX measures
-- Reduced manual reporting effort by 40%
-- Identified over 30% variation in regional profitability and return patterns
 
-**View Project:** [https://github.com/bhargavichinnaparapu/Sales_Performance_Analysis](https://github.com/bhargavichinnaparapu/Sales_Performance_Analysis)
+- Developed an executive Power BI dashboard to analyze sales, profit, profit margin, and return rates
+- Designed a star-schema data model and implemented optimized DAX measures
+- Reduced manual reporting and analysis effort by approximately 40%
+- Identified over 30% variation in regional profitability and return patterns through trend analysis
+
+Project Repository:  
+https://github.com/bhargavichinnaparapu/Sales_Performance_Analysis
+
+---
 
 ### Job Listings Scraper and Analysis  
 **Python, BeautifulSoup, Pandas, Matplotlib | Dec 2025**
-- Scraped and structured 100+ job listings using Python
-- Performed exploratory data analysis to study role-wise and location-wise hiring trends
-- Identified top hiring roles and locations contributing to over 50% of job postings
-- Visualized insights using Matplotlib
 
-**View Project:** [https://github.com/bhargavichinnaparapu/job-listing-project](https://github.com/bhargavichinnaparapu/job-listing-project)
+- Scraped and structured 100+ job listings using Python and BeautifulSoup
+- Performed exploratory data analysis to evaluate role-wise and location-wise hiring trends
+- Identified top hiring roles and locations contributing to over 50% of job postings
+- Visualized trends and distributions using Matplotlib
+
+Project Repository:  
+https://github.com/bhargavichinnaparapu/job-listing-project
 
 ---
 
@@ -93,32 +98,31 @@ CGPA: 8.6
 Aditya Junior College | 2021 – 2023  
 CGPA: 9.3  
 
-Bhimavaram, Andhra Pradesh
+Location: Bhimavaram, Andhra Pradesh
 
 ---
 
 ## Certifications
 
-- Data Analytics Internship Training (Job Analytics Portal) – ElevanceSkills  
-- SQL (Basic and Intermediate) – HackerRank  
-- Data Analyst: Professional Certificate in Data Analysis – Udemy (In Progress)  
+- Data Analytics Internship Training (Job Analytics Portal) – ElevanceSkills
+- SQL (Basic and Intermediate) – HackerRank
+- Data Analyst: Professional Certificate in Data Analysis – Udemy (In Progress)
 - Online Soft Skills Training – NPTEL (IIT Madras)
 
 ---
 
-## Contact
+## Contact Information
 
-**Phone:** +91 9988464627
+Phone: +91 9988464627  
+Email: bhargavichinnaparapu@gmail.com  
+LinkedIn: https://www.linkedin.com/in/bhargavichinnaparapu  
+GitHub: https://github.com/bhargavichinnaparapu
 
-**Email:** [bhargavichinnaparapu@gmail.com](mailto:bhargavichinnaparapu@gmail.com)
+---
 
-**LinkedIn:** [https://www.linkedin.com/in/bhargavichinnaparapu](https://www.linkedin.com/in/bhargavichinnaparapu)
-
-**GitHub:** [https://github.com/bhargavichinnaparapu/bhargavichinnaparapu](https://github.com/bhargavichinnaparapu/bhargavichinnaparapu)
+Check the repositories below for detailed project documentation and dashboards. Additional projects will be added regularly.
 
 
-
- *Check out my repositories below — more projects coming soon!*
 
 
 
