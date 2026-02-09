@@ -59,7 +59,6 @@ I am seeking an entry-level Data Analyst or Business Analyst role where I can ap
 
 **View Project:** [https://github.com/bhargavichinnaparapu/job-market-analysis-tableau](https://github.com/bhargavichinnaparapu/job-market-analysis-tableau)
 
-
 ---
 
 ## Projects
@@ -71,7 +70,7 @@ I am seeking an entry-level Data Analyst or Business Analyst role where I can ap
 - Reduced manual reporting effort by 40%
 - Identified over 30% variation in regional profitability and return patterns
 
-**View Project:** [https://github.com/bhargavichinnaparapu/Sales_Performance_Analysis]
+**View Project:** [https://github.com/bhargavichinnaparapu/Sales_Performance_Analysis](https://github.com/bhargavichinnaparapu/Sales_Performance_Analysis)
 
 ### Job Listings Scraper and Analysis  
 **Python, BeautifulSoup, Pandas, Matplotlib | Dec 2025**
@@ -108,53 +107,11 @@ Bhimavaram, Andhra Pradesh
 
 ## Contact
 
-Phone: +91 9988464627
-Email: bhargavichinnaparapu@gmail.com  
-LinkedIn: https://www.linkedin.com/in/bhargavichinnaparapu](https://www.linkedin.com/in/bhargavichinnaparapu
-GitHub: https://github.com/bhargavichinnaparapu/bhargavichinnaparapu
+**Phone:** +91 9988464627
+**Email:** [bhargavichinnaparapu@gmail.com](mailto:bhargavichinnaparapu@gmail.com)
+**LinkedIn:** [https://www.linkedin.com/in/bhargavichinnaparapu](https://www.linkedin.com/in/bhargavichinnaparapu)
+**GitHub:** [https://github.com/bhargavichinnaparapu/bhargavichinnaparapu](https://github.com/bhargavichinnaparapu/bhargavichinnaparapu)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ities and 90K+ companies** using SQL
-* Built an interactive **Tableau dashboard** with KPIs, filters, and geographic maps
-* Identified key hiring insights, including **onsite roles accounting for ~70% of demand**
-* Optimized dashboard layout and KPI formatting for recruiter-friendly insights
-
- **View Project:** [https://github.com/bhargavichinnaparapu/job-market-analysis-tableau](https://github.com/bhargavichinnaparapu/job-market-analysis-tableau)
-
----
-
-###  Job Listings Scraper & Analysis | Python
-
-* Built a Python-based web scraper using **BeautifulSoup** and **Requests** to collect real-world job data
-* Scraped and structured **100+ job listings** from online job portals
-* Performed EDA using **Pandas** to analyze role-wise and location-wise hiring trends
-* Visualized insights using **Matplotlib**
-
- **View Project:** [https://github.com/bhargavichinnaparapu/job-listing-project](https://github.com/bhargavichinnaparapu/job-listing-project)
-
----
-
-## Connect With Me
-
-*  **LinkedIn:** [https://www.linkedin.com/in/bhargavichinnaparapu](https://www.linkedin.com/in/bhargavichinnaparapu)
-*  **Email:** [bhargavichinnaparapu@gmail.com](mailto:bhargavichinnaparapu@gmail.com)
-
----
 
  *Check out my repositories below — more projects coming soon!*
 
