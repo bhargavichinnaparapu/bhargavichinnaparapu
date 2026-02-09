@@ -22,10 +22,11 @@ I enjoy solving business problems through data, creating insightful dashboards, 
 
 ## Skills
 
-* **Programming Languages:** Python (Pandas, NumPy, Matplotlib), SQL (MySQL)
-* **Data Analysis & Visualization:** Power BI (DAX), Tableau, Exploratory Data Analysis (EDA), Advanced Excel
-* **Version Control & Tools:** Git, GitHub, VS Code
-
+* **Languages:** Python (Pandas, Matplotlib, NumPy), SQL
+* **Databases:** MySQL
+* **Concepts:** Control & Tools:** Git, GitHub, VS Code
+* **Visualization & Analytics:** Power BI (DAX), Tableau, Excel (Intermediate), EDA (Exploratory Data Analysis)
+* **Tools:** Git, GitHub, VS Code
 ---
 
 ## Featured Projects
